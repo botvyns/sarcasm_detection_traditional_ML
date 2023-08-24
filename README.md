@@ -7,11 +7,11 @@ Project on sarcasm detection in Ukrainian language using three traditional ML cl
 
 [data with features](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/sent_contra_added.csv) - data with all extracted features.
 
-[data analysis](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/exploratory_data_analysis.ipynb) - notebook were exploratory data analysis with visualisations was performed.
+[data analysis](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/exploratory_data_analysis.ipynb) - notebook for exploratory data analysis and visualisations.
 
-[preprocessing + features](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/data_preprocessing_and_feature_engineering.ipynb) - notebook were basic preprocessing steps were performed with feature engineering.
+[preprocessing + features](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/data_preprocessing_and_feature_engineering.ipynb) - notebook for basic preprocessing steps and feature engineering.
 
-[classification](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/classification.ipynb) - notebook with code for training and testing classifiers.
+[classification](https://github.com/botvyns/sarcasm_detection_traditional_ML/blob/main/classification.ipynb) - notebook with code for classifiers training and testing.
 
 For non-sarastics texts part of this [corpora](https://github.com/saganoren/ukr-twi-corpus) was used. Stop-words were taken from [this source](https://github.com/skupriienko/Ukrainian-Stopwords).
 To calculate sentiment [this](https://github.com/skupriienko/Ukrainian-Sentiment-Analysis) and [this](https://github.com/lang-uk/tone-dict-uk) dictionaries were used.
